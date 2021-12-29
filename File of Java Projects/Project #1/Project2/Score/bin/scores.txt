@@ -1,5 +1,0 @@
-Bob 150 
-Dan 220 
-Samantha 70 
-Ksenia 175
-Nathan 15
