@@ -1,0 +1,1 @@
+Restaurant: BurgerKing    Best Known For: Burgers    Cost: 10.00
